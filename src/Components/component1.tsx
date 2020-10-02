@@ -1,6 +1,6 @@
 import React from 'react';
 import { AzureAD } from 'react-aad-msal';
-import { authProvider as authProvider1 } from './authProvider1';
+import { authProvider as authProvider1 } from '../AuthProviders/authProvider1';
 
 const Component1 = (): JSX.Element => {
     return (
